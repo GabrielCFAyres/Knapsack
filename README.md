@@ -1,4 +1,4 @@
-# Knapsack
+# The Knapsack Problem
 Questão resolvida sobre Knapsack
 
 The famous knapsack problem. You are packing for a vacation on the sea side and you are going
